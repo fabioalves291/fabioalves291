@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @fabioalves291
 - 👀 I’m interested in math,  english, python, c, javascript, web and games 
 - 🌱 I’m currently learning c, javascript and english
-- 💞️ I’m looking to collaborate on MyDict
-- 📫 How to reach me in my whatsapp or gmail. contact =****
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me in my [Linkdin](https://www.linkedin.com/in/fabio-alves-892250217/). 
 
 <!---
 fabioalves291/fabioalves291 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
